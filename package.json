@@ -1,7 +1,7 @@
 {
   "name": "@briebug/jest-schematic",
   "version": "4.0.0",
-  "description": "Schematic to add jest to an Angular CLI project",
+  "description": "This is a fork of [briebug/jest-schematic](https://github.com/briebug/jest-schematic) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged",
   "repository": "briebug/jest-schematic",
   "bugs": "https://github.com/briebug/jest-schematic/issues",
   "homepage": "https://github.com/briebug/jest-schematic",
