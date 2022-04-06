@@ -3,8 +3,8 @@
   "version": "4.0.0",
   "description": "This is a fork of [briebug/jest-schematic](https://github.com/briebug/jest-schematic) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged",
   "repository": "briebug/jest-schematic",
-  "bugs": "https://github.com/briebug/jest-schematic/issues",
-  "homepage": "https://github.com/briebug/jest-schematic",
+  "bugs": "https://github.com/npmtemp/jest-schematic/issues",
+  "homepage": "https://github.com/npmtemp/jest-schematic",
   "main": "src/jest/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
