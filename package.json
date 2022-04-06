@@ -1,8 +1,8 @@
 {
-  "name": "@briebug/jest-schematic",
+  "name": "@npmtmp/jest-schematic",
   "version": "4.0.0",
   "description": "This is a fork of [briebug/jest-schematic](https://github.com/briebug/jest-schematic) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged",
-  "repository": "briebug/jest-schematic",
+  "repository": "npmtmp/jest-schematic",
   "bugs": "https://github.com/npmtemp/jest-schematic/issues",
   "homepage": "https://github.com/npmtemp/jest-schematic",
   "main": "src/jest/index.js",
@@ -28,7 +28,7 @@
     "@angular-devkit/core": "^10.0.6",
     "@angular-devkit/schematics": "^10.0.6",
     "@schematics/angular": "^10.0.6",
-    "@schuchard/schematics-core": "^0.4.0",
+    "@npmtmp/schematics-core": "^0.4.0",
     "rxjs": "6.5.5"
   },
   "publishConfig": {
