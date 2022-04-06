@@ -1,3 +1,5 @@
+This is a fork of [briebug/jest-schematic](https://github.com/briebug/jest-schematic) until [this pr](https://github.com/schuchard/ng-schematics/pull/36) is merged
+
 # Jest Angular Schematic
 
 This schematic will configure Angular to execute unit tests with Jest for single projects or workspaces.
